@@ -1,0 +1,11 @@
+C:\Users\Алина\source\repos\TeorVer\TeorVer\bin\Debug\TeorVer.exe.config
+C:\Users\Алина\source\repos\TeorVer\TeorVer\bin\Debug\TeorVer.exe
+C:\Users\Алина\source\repos\TeorVer\TeorVer\bin\Debug\TeorVer.pdb
+C:\Users\Алина\source\repos\TeorVer\TeorVer\obj\Debug\TeorVer.csprojAssemblyReference.cache
+C:\Users\Алина\source\repos\TeorVer\TeorVer\obj\Debug\TeorVer.Form1.resources
+C:\Users\Алина\source\repos\TeorVer\TeorVer\obj\Debug\TeorVer.Properties.Resources.resources
+C:\Users\Алина\source\repos\TeorVer\TeorVer\obj\Debug\TeorVer.csproj.GenerateResource.cache
+C:\Users\Алина\source\repos\TeorVer\TeorVer\obj\Debug\TeorVer.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\TeorVer\TeorVer\obj\Debug\TeorVer.csproj.CopyComplete
+C:\Users\Алина\source\repos\TeorVer\TeorVer\obj\Debug\TeorVer.exe
+C:\Users\Алина\source\repos\TeorVer\TeorVer\obj\Debug\TeorVer.pdb
